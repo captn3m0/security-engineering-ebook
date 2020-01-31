@@ -1,0 +1,84 @@
+BookmarkBegin
+BookmarkTitle: Cover
+BookmarkLevel: 1
+BookmarkPageNumber: 1
+BookmarkBegin
+BookmarkTitle: SEv3-pref-May16.pdf
+BookmarkLevel: 1
+BookmarkPageNumber: 2
+BookmarkBegin
+BookmarkTitle: SEv3-ch1-dec18.pdf
+BookmarkLevel: 1
+BookmarkPageNumber: 4
+BookmarkBegin
+BookmarkTitle: SEv3-ch2-dec18.pdf
+BookmarkLevel: 1
+BookmarkPageNumber: 16
+BookmarkBegin
+BookmarkTitle: SEv3-ch3-dec18.pdf
+BookmarkLevel: 1
+BookmarkPageNumber: 54
+BookmarkBegin
+BookmarkTitle: SEv3-ch4-dec18.pdf
+BookmarkLevel: 1
+BookmarkPageNumber: 101
+BookmarkBegin
+BookmarkTitle: SEv3-ch5-dec18.pdf
+BookmarkLevel: 1
+BookmarkPageNumber: 124
+BookmarkBegin
+BookmarkTitle: SEv3-ch6-dec18.pdf
+BookmarkLevel: 1
+BookmarkPageNumber: 178
+BookmarkBegin
+BookmarkTitle: SEv3-ch7-dec18.pdf
+BookmarkLevel: 1
+BookmarkPageNumber: 208
+BookmarkBegin
+BookmarkTitle: SEv3-ch8-dec18.pdf
+BookmarkLevel: 1
+BookmarkPageNumber: 235
+BookmarkBegin
+BookmarkTitle: SEv3-ch9-dec18.pdf
+BookmarkLevel: 1
+BookmarkPageNumber: 265
+BookmarkBegin
+BookmarkTitle: SEv3-ch10-dec18.pdf
+BookmarkLevel: 1
+BookmarkPageNumber: 288
+BookmarkBegin
+BookmarkTitle: SEv3-ch11-jan7.pdf
+BookmarkLevel: 1
+BookmarkPageNumber: 316
+BookmarkBegin
+BookmarkTitle: SEv3-ch13-dec18.pdf
+BookmarkLevel: 1
+BookmarkPageNumber: 341
+BookmarkBegin
+BookmarkTitle: SEv3-ch14-dec20.pdf
+BookmarkLevel: 1
+BookmarkPageNumber: 364
+BookmarkBegin
+BookmarkTitle: SEv3-ch15-dec18.pdf
+BookmarkLevel: 1
+BookmarkPageNumber: 392
+BookmarkBegin
+BookmarkTitle: SEv3-ch16-dec18.pdf
+BookmarkLevel: 1
+BookmarkPageNumber: 409
+BookmarkBegin
+BookmarkTitle: SEv3-ch17-dec20.pdf
+BookmarkLevel: 1
+BookmarkPageNumber: 429
+BookmarkBegin
+BookmarkTitle: SEv3-ch18-dec18.pdf
+BookmarkLevel: 1
+BookmarkPageNumber: 453
+BookmarkBegin
+BookmarkTitle: SEv3-ch19-dec18.pdf
+BookmarkLevel: 1
+BookmarkPageNumber: 488
+BookmarkBegin
+BookmarkTitle: SEv3-ch26-dec18.pdf
+BookmarkLevel: 1
+BookmarkPageNumber: 511
