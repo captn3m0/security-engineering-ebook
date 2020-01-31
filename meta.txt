@@ -1,3 +1,9 @@
+InfoBegin
+InfoKey: Title
+InfoValue: Security Engineering — Third Edition
+InfoBegin
+InfoKey: Author
+InfoValue: Ross Anderson
 BookmarkBegin
 BookmarkTitle: Cover
 BookmarkLevel: 1
