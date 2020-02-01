@@ -40,6 +40,10 @@ Buy the second editions from:
 
 A combined official signed PDF of the first edition is available at <http://www.cl.cam.ac.uk/~rja14/musicfiles/manuscripts/SEv1.pdf>
 
+## Contributing
+
+The list of URLs is maintained at `urls.txt` and might need to be updated. File a PR if this breaks?
+
 ## License
 
 The little code in this repo is under MIT.
