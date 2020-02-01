@@ -60,7 +60,7 @@ if [[ $@ == *'--generate-metadata'* ]]; then
   do
       FILENAME=$(basename "$line")
       PAGES=$(qpdf --show-npages "$FILENAME")
-      BOOKMARK_TITLE=$(cut -d- -f 2)
+      BOOKMARK_TITLE=$(echo -n $FILENAME | cut -d- -f 2)
 
       echo "BookmarkBegin" >> meta.txt
       echo "BookmarkTitle: $BOOKMARK_TITLE" >> meta.txt
