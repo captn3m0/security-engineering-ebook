@@ -1,5 +1,16 @@
 #!/bin/bash
 
+function assert_installed() {
+    for var in "$@"; do
+        if ! which $var &> /dev/null; then
+            echo "Install $var!"
+            exit 1
+        fi
+    done
+}
+
+assert_installed wget pdftk
+
 COVER_URL=https://www.cl.cam.ac.uk/~rja14/Papers/SEv3-cover.jpg
 
 # wget --timestamping  "$COVER_URL" --output-document cover.jpg

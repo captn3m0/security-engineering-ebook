@@ -4,7 +4,15 @@
 
 This is just the script to generate a combined PDF from the currently-online-chapters available for review.
 
+The script also takes care of putting in the right bookmarks for all the chapters in the generated PDF file.
+
 Go read the book from the source at <https://www.cl.cam.ac.uk/~rja14/book.html>
+
+## How to generate the book?
+
+Run `./generate.sh`. You will need `pdftk`, and `wget` installed.
+
+Once the script finishes running, check the `security-engineering-3rd-edition.pdf` file.
 
 ## Support the Authors
 
