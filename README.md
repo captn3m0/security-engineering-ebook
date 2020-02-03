@@ -1,6 +1,6 @@
 # security-engineering-3rd-edition-ebook
 
-![third-edition-security-engineering-book-cover](https://www.cl.cam.ac.uk/~rja14/Papers/SEv3-cover.jpg)
+![third-edition-security-engineering-book-cover](cover-thumb.jpg)
 
 This is just the script to generate a combined PDF from the currently-online-chapters available for review.
 
