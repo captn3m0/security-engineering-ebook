@@ -33,6 +33,7 @@ This list might be out of date, see the upstream source for actual list, and `ur
 -   Chapter 18: Physical Tamper Resistance (November 13)
 -   Chapter 19: Side Channels (December 6)
 -   Chapter 20: Advanced Cryptographic Engineering (February 28)
+-   Chapter 21: Network Attack and Defence (Mar 16)
 -   Chapter 26: Surveillance or Privacy? (May 17)
 -   Bibliography
 
