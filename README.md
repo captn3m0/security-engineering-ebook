@@ -75,3 +75,7 @@ The list of URLs is maintained at `urls.txt` and might need to be updated. File 
 ## License
 
 The little code in this repo is under MIT.
+
+## Extra
+
+A list of my other EBook generation projects: https://captnemo.in/ebooks/, includes a link to other related projects as well
