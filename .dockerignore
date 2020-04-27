@@ -1,0 +1,6 @@
+.git
+REDME.md
+Dockerfile
+LICENSE
+*.pdf
+!cover.pdf

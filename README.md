@@ -10,7 +10,7 @@ Go read the book from the source at <https://www.cl.cam.ac.uk/~rja14/book.html>
 
 ## Chapters
 
-This list might be out of date, see the upstream source for actual list, and `urls.txt` for the one that the script uses.
+See `titles.txt` for the bookmark titles used by the script.
 
 -   Preface
 -   Chapter 1: What is Security Engineering? (August 30)
@@ -39,7 +39,23 @@ This list might be out of date, see the upstream source for actual list, and `ur
 
 ## How to generate the book?
 
-Run `./generate.sh`. You will need `pdftk`, and `wget` installed.
+Run `./generate.sh`. You will need `pdftk`, and `wget` installed. Alternatively, you can run it using Docker:grinning:
+
+### Docker
+
+```
+docker run --detach --name security-engineering-ebook captn3m0/security-engineering-ebook
+7553d55547603b0e3d47332f4cd55a126ace10e0e965547b0fae06e3c7b16229
+
+docker logs security-engineering-ebook -f
+Starting PDF download
+All PDFs downloaded
+PDF files combined
+Bookmarks attached to PDF
+PDF File generated: security-engineering-3rd-edition.pdf
+
+docker cp security-engineering-ebook:/security-engineering-ebook/security-engineering-3rd-edition.pdf .
+```
 
 Once the script finishes running, check the `security-engineering-3rd-edition.pdf` file.
 
@@ -66,16 +82,16 @@ Buy the second editions from:
 -   [Amazon.co.uk](http://www.amazon.co.uk/exec/obidos/ASIN/0470068523/rossandersshomep)
 -   [Kindle Version](http://www.amazon.co.uk/gp/product/B004BDOZI0/ref=as_li_tf_tl?ie=UTF8&tag=rossanderssho-21&linkCode=as2&camp=1634&creative=6738&creativeASIN=B004BDOZI0)
 
-A combined official signed PDF of the first edition is available at <http://www.cl.cam.ac.uk/~rja14/musicfiles/manuscripts/SEv1.pdf>
+A combined PDF of the first edition is available directly from the author at <http://www.cl.cam.ac.uk/~rja14/musicfiles/manuscripts/SEv1.pdf>.
 
 ## Contributing
 
 The list of URLs is maintained at `urls.txt` and might need to be updated. File a PR if this breaks?
 
-## License
-
-The little code in this repo is under MIT.
-
 ## Extra
 
 A list of my other EBook generation projects: https://captnemo.in/ebooks/, includes a link to other related projects as well
+
+## License
+
+The little code in this repo is licensed under the [MIT License](https://nemo.mit-license.org/). See LICENSE file for details.
