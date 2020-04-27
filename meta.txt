@@ -9,90 +9,98 @@ BookmarkTitle: Cover
 BookmarkLevel: 1
 BookmarkPageNumber: 1
 BookmarkBegin
-BookmarkTitle: pref
+BookmarkTitle: Preface
 BookmarkLevel: 1
 BookmarkPageNumber: 2
 BookmarkBegin
-BookmarkTitle: ch1
+BookmarkTitle: 1. What is Security Engineering?
 BookmarkLevel: 1
 BookmarkPageNumber: 4
 BookmarkBegin
-BookmarkTitle: ch2
+BookmarkTitle: 2. Who is the Opponent?
 BookmarkLevel: 1
 BookmarkPageNumber: 16
 BookmarkBegin
-BookmarkTitle: ch3
+BookmarkTitle: 3. Psychology and Usability
 BookmarkLevel: 1
 BookmarkPageNumber: 54
 BookmarkBegin
-BookmarkTitle: ch4
+BookmarkTitle: 4. Protocols
 BookmarkLevel: 1
 BookmarkPageNumber: 101
 BookmarkBegin
-BookmarkTitle: ch5
+BookmarkTitle: 5. Cryptography
 BookmarkLevel: 1
 BookmarkPageNumber: 124
 BookmarkBegin
-BookmarkTitle: ch6
+BookmarkTitle: 6. Access Control
 BookmarkLevel: 1
 BookmarkPageNumber: 178
 BookmarkBegin
-BookmarkTitle: ch7
+BookmarkTitle: 7. Distributed Systems
 BookmarkLevel: 1
 BookmarkPageNumber: 208
 BookmarkBegin
-BookmarkTitle: ch8
+BookmarkTitle: 8. Economics
 BookmarkLevel: 1
 BookmarkPageNumber: 235
 BookmarkBegin
-BookmarkTitle: ch9
+BookmarkTitle: 9. Multilevel Security
 BookmarkLevel: 1
 BookmarkPageNumber: 265
 BookmarkBegin
-BookmarkTitle: ch10
+BookmarkTitle: 10. Boundaries
 BookmarkLevel: 1
 BookmarkPageNumber: 288
 BookmarkBegin
-BookmarkTitle: ch11
+BookmarkTitle: 11. Inference Control
 BookmarkLevel: 1
 BookmarkPageNumber: 316
 BookmarkBegin
-BookmarkTitle: ch12
+BookmarkTitle: 12. Banking and Bookkeeping
 BookmarkLevel: 1
 BookmarkPageNumber: 341
 BookmarkBegin
-BookmarkTitle: ch13
+BookmarkTitle: 13. Physical Protection
 BookmarkLevel: 1
 BookmarkPageNumber: 394
 BookmarkBegin
-BookmarkTitle: ch14
+BookmarkTitle: 14. Monitoring and Metering
 BookmarkLevel: 1
 BookmarkPageNumber: 417
 BookmarkBegin
-BookmarkTitle: ch15
+BookmarkTitle: 15. Nuclear Command and Control
 BookmarkLevel: 1
 BookmarkPageNumber: 445
 BookmarkBegin
-BookmarkTitle: ch16
+BookmarkTitle: 16. Security Printing and Seals
 BookmarkLevel: 1
 BookmarkPageNumber: 462
 BookmarkBegin
-BookmarkTitle: ch17
+BookmarkTitle: 17. Biometrics
 BookmarkLevel: 1
 BookmarkPageNumber: 482
 BookmarkBegin
-BookmarkTitle: ch18
+BookmarkTitle: 18. Physical Tamper Resistance
 BookmarkLevel: 1
 BookmarkPageNumber: 506
 BookmarkBegin
-BookmarkTitle: ch19
+BookmarkTitle: 19. Side Channels
 BookmarkLevel: 1
 BookmarkPageNumber: 541
 BookmarkBegin
-BookmarkTitle: ch26
+BookmarkTitle: 20. Advanced Cryptographic Engineering
 BookmarkLevel: 1
 BookmarkPageNumber: 564
 BookmarkBegin
-BookmarkTitle: bib
+BookmarkTitle: 21. Network Attack and Defence
 BookmarkLevel: 1
-BookmarkPageNumber: 611
+BookmarkPageNumber: 591
+BookmarkBegin
+BookmarkTitle: 26. Surveillance or Privacy?
+BookmarkLevel: 1
+BookmarkPageNumber: 624
+BookmarkBegin
+BookmarkTitle: Bibliography
+BookmarkLevel: 1
+BookmarkPageNumber: 671

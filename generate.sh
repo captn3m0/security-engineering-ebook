@@ -18,7 +18,7 @@ assert_installed wget pdftk
 if [[ $@ == *'--download-cover-image'* ]]; then
   echo "Downloading cover image"
   assert_installed convert
-  wget --quiet --timestamping  "$COVER_URL" --output-document cover.jpg
+  wget --quiet --timestamping "$COVER_URL" --output-document cover.jpg
   convert cover.jpg cover.pdf
   echo "Cover Image downloaded and converted to pdf"
 fi
@@ -55,17 +55,19 @@ if [[ $@ == *'--generate-metadata'* ]]; then
   echo "BookmarkLevel: 1" >> meta.txt
   echo "BookmarkPageNumber: 1" >> meta.txt
 
-  
+  chapter_id=0
+  readarray -t TITLES < titles.txt
   while IFS= read -r line
   do
       FILENAME=$(basename "$line")
       PAGES=$(qpdf --show-npages "$FILENAME")
-      BOOKMARK_TITLE=$(echo -n $FILENAME | cut -d- -f 2)
+      BOOKMARK_TITLE="${TITLES[$chapter_id]}"
 
       echo "BookmarkBegin" >> meta.txt
       echo "BookmarkTitle: $BOOKMARK_TITLE" >> meta.txt
       echo "BookmarkLevel: 1" >> meta.txt
       echo "BookmarkPageNumber: $PAGE_NUM" >> meta.txt
+      chapter_id=$((chapter_id+1))
       PAGE_NUM=$((PAGE_NUM+PAGES))
   done < "$INPUT_FILE"
   echo "Metadata updated"
