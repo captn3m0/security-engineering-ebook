@@ -20,5 +20,6 @@ Preface
 19. Side Channels
 20. Advanced Cryptographic Engineering
 21. Network Attack and Defence
+23. Electronic and Information Warfare
 26. Surveillance or Privacy?
 Bibliography
