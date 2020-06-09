@@ -1,4 +1,4 @@
-# security-engineering-3rd-edition-ebook
+# security-engineering-3rd-edition-ebook ![](https://img.shields.io/badge/Chapters%20Published-24%2F26-brightgreen)
 
 ![third-edition-security-engineering-book-cover](cover-thumb.jpg)
 
