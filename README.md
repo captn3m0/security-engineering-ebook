@@ -13,30 +13,30 @@ Go read the book from the source at <https://www.cl.cam.ac.uk/~rja14/book.html>
 See `titles.txt` for the bookmark titles used by the script.
 
 -   Preface
--   Chapter 1: What is Security Engineering? (August 30)
--   Chapter 2: Who is the Opponent? (May 17)
--   Chapter 3: Psychology and Usability (May 31)
--   Chapter 4: Protocols (June 6)
--   Chapter 5: Cryptography (July 26)
--   Chapter 6: Access Control (August 29)
--   Chapter 7: Distributed Systems (July 26)
--   Chapter 8: Economics (June 29)
--   Chapter 9: Multilevel Security (September 16)
--   Chapter 10: Boundaries (October 4)
--   Chapter 11: Inference Control (January 7)
--   Chapter 12: Banking and Bookkeeping (February 2)
--   Chapter 13: Physical Protection (October 12)
--   Chapter 14: Monitoring and Metering (December 18)
--   Chapter 15: Nuclear Command and Control (August 29)
--   Chapter 16: Security Printing and Seals (November 13)
--   Chapter 17: Biometrics (December 18)
--   Chapter 18: Physical Tamper Resistance (November 13)
--   Chapter 19: Side Channels (December 6)
--   Chapter 20: Advanced Cryptographic Engineering (February 28)
--   Chapter 21: Network Attack and Defence (Mar 16)
--   Chapter 22: Phones (June 3)
--   Chapter 23: Electronic and Information Warfare (May 20)
--   Chapter 26: Surveillance or Privacy? (May 17)
+-   Chapter 1: What is Security Engineering?
+-   Chapter 2: Who is the Opponent?
+-   Chapter 3: Psychology and Usability
+-   Chapter 4: Protocols
+-   Chapter 5: Cryptography
+-   Chapter 6: Access Control
+-   Chapter 7: Distributed Systems
+-   Chapter 8: Economics
+-   Chapter 9: Multilevel Security
+-   Chapter 10: Boundaries
+-   Chapter 11: Inference Control
+-   Chapter 12: Banking and Bookkeeping
+-   Chapter 13: Physical Protection
+-   Chapter 14: Monitoring and Metering
+-   Chapter 15: Nuclear Command and Control
+-   Chapter 16: Security Printing and Seals
+-   Chapter 17: Biometrics
+-   Chapter 18: Physical Tamper Resistance
+-   Chapter 19: Side Channels
+-   Chapter 20: Advanced Cryptographic Engineering
+-   Chapter 21: Network Attack and Defence
+-   Chapter 22: Phones
+-   Chapter 23: Electronic and Information Warfare
+-   Chapter 26: Surveillance or Privacy?
 -   Bibliography
 
 ## How to generate the book?
