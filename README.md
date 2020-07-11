@@ -1,4 +1,4 @@
-# security-engineering-3rd-edition-ebook ![](https://img.shields.io/badge/Chapters%20Published-24%2F26-brightgreen)
+# security-engineering-3rd-edition-ebook ![](https://img.shields.io/badge/Chapters%20Published-25%2F26-brightgreen)
 
 ![third-edition-security-engineering-book-cover](cover-thumb.jpg)
 
@@ -36,7 +36,8 @@ See `titles.txt` for the bookmark titles used by the script.
 -   Chapter 21: Network Attack and Defence
 -   Chapter 22: Phones
 -   Chapter 23: Electronic and Information Warfare
--   Chapter 26: Surveillance or Privacy?
+-   Chapter 25: Surveillance or Privacy?
+-   Chapter 26: Managing the Development of Secure Systems
 -   Bibliography
 
 ## How to generate the book?
@@ -72,8 +73,7 @@ This also requires `qpdf` to be installed.
 
 `--download-cover-image`
 
-Download the cover image. The repo already has a `cover.pdf` file which is used by default. This option will download the cover image and convert
-it to `pdf` yet again. Do this if the cover URL changes. Requires `imagemagick` to be installed.
+Download the cover image. The repo already has [a `cover.pdf` file which](https://www.cl.cam.ac.uk/~rja14/Papers/SEv3-cover.pdf) is used by default. Do this if the cover URL changes. Requires `wget` to be installed.
 
 ## Support the Authors
 

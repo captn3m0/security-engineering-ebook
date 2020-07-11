@@ -1,6 +1,6 @@
 #!/bin/bash
 
-COVER_URL=https://www.cl.cam.ac.uk/~rja14/Papers/SEv3-cover.jpg
+COVER_URL=https://www.cl.cam.ac.uk/~rja14/Papers/SEv3-cover.pdf
 FINAL_PDF=security-engineering-3rd-edition.pdf
 INPUT_FILE="urls.txt"
 
@@ -18,9 +18,8 @@ assert_installed wget pdftk
 if [[ $@ == *'--download-cover-image'* ]]; then
   echo "Downloading cover image"
   assert_installed convert
-  wget --quiet --timestamping "$COVER_URL" --output-document cover.jpg
-  convert cover.jpg cover.pdf
-  echo "Cover Image downloaded and converted to pdf"
+  wget --quiet --timestamping "$COVER_URL" --output-document cover.pdf
+  echo "Cover Image downloaded"
 fi
 
 declare -a FILES_LIST

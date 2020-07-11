@@ -105,10 +105,14 @@ BookmarkTitle: 23. Electronic and Information Warfare
 BookmarkLevel: 1
 BookmarkPageNumber: 656
 BookmarkBegin
-BookmarkTitle: 26. Surveillance or Privacy?
+BookmarkTitle: 25. Surveillance or Privacy?
 BookmarkLevel: 1
 BookmarkPageNumber: 689
 BookmarkBegin
+BookmarkTitle: 26. Managing the Development of Secure Systems
+BookmarkLevel: 1
+BookmarkPageNumber: 737
+BookmarkBegin
 BookmarkTitle: Bibliography
 BookmarkLevel: 1
-BookmarkPageNumber: 736
+BookmarkPageNumber: 779
