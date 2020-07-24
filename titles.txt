@@ -24,4 +24,5 @@ Preface
 23. Electronic and Information Warfare
 25. Surveillance or Privacy?
 26. Managing the Development of Secure Systems
+27. Assurance and Sustainability
 Bibliography

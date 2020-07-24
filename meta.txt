@@ -113,6 +113,10 @@ BookmarkTitle: 26. Managing the Development of Secure Systems
 BookmarkLevel: 1
 BookmarkPageNumber: 737
 BookmarkBegin
-BookmarkTitle: Bibliography
+BookmarkTitle: 27. Assurance and Sustainability
 BookmarkLevel: 1
 BookmarkPageNumber: 779
+BookmarkBegin
+BookmarkTitle: Bibliography
+BookmarkLevel: 1
+BookmarkPageNumber: 817

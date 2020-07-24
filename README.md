@@ -38,6 +38,7 @@ See `titles.txt` for the bookmark titles used by the script.
 -   Chapter 23: Electronic and Information Warfare
 -   Chapter 25: Surveillance or Privacy?
 -   Chapter 26: Managing the Development of Secure Systems
+-   Chapter 27: Assurance and Sustainability
 -   Bibliography
 
 ## How to generate the book?
