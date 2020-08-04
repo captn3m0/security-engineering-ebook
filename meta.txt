@@ -39,84 +39,88 @@ BookmarkPageNumber: 178
 BookmarkBegin
 BookmarkTitle: 7. Distributed Systems
 BookmarkLevel: 1
-BookmarkPageNumber: 208
+BookmarkPageNumber: 209
 BookmarkBegin
 BookmarkTitle: 8. Economics
 BookmarkLevel: 1
-BookmarkPageNumber: 235
+BookmarkPageNumber: 236
 BookmarkBegin
 BookmarkTitle: 9. Multilevel Security
 BookmarkLevel: 1
-BookmarkPageNumber: 265
+BookmarkPageNumber: 266
 BookmarkBegin
 BookmarkTitle: 10. Boundaries
 BookmarkLevel: 1
-BookmarkPageNumber: 288
+BookmarkPageNumber: 289
 BookmarkBegin
 BookmarkTitle: 11. Inference Control
 BookmarkLevel: 1
-BookmarkPageNumber: 316
+BookmarkPageNumber: 318
 BookmarkBegin
 BookmarkTitle: 12. Banking and Bookkeeping
 BookmarkLevel: 1
-BookmarkPageNumber: 341
+BookmarkPageNumber: 343
 BookmarkBegin
 BookmarkTitle: 13. Physical Protection
 BookmarkLevel: 1
-BookmarkPageNumber: 394
+BookmarkPageNumber: 400
 BookmarkBegin
 BookmarkTitle: 14. Monitoring and Metering
 BookmarkLevel: 1
-BookmarkPageNumber: 417
+BookmarkPageNumber: 423
 BookmarkBegin
 BookmarkTitle: 15. Nuclear Command and Control
 BookmarkLevel: 1
-BookmarkPageNumber: 445
+BookmarkPageNumber: 451
 BookmarkBegin
 BookmarkTitle: 16. Security Printing and Seals
 BookmarkLevel: 1
-BookmarkPageNumber: 462
+BookmarkPageNumber: 468
 BookmarkBegin
 BookmarkTitle: 17. Biometrics
 BookmarkLevel: 1
-BookmarkPageNumber: 482
+BookmarkPageNumber: 488
 BookmarkBegin
 BookmarkTitle: 18. Physical Tamper Resistance
 BookmarkLevel: 1
-BookmarkPageNumber: 506
+BookmarkPageNumber: 512
 BookmarkBegin
 BookmarkTitle: 19. Side Channels
 BookmarkLevel: 1
-BookmarkPageNumber: 541
+BookmarkPageNumber: 547
 BookmarkBegin
 BookmarkTitle: 20. Advanced Cryptographic Engineering
 BookmarkLevel: 1
-BookmarkPageNumber: 564
+BookmarkPageNumber: 570
 BookmarkBegin
 BookmarkTitle: 21. Network Attack and Defence
 BookmarkLevel: 1
-BookmarkPageNumber: 591
+BookmarkPageNumber: 598
 BookmarkBegin
 BookmarkTitle: 22. Phones
 BookmarkLevel: 1
-BookmarkPageNumber: 624
+BookmarkPageNumber: 631
 BookmarkBegin
 BookmarkTitle: 23. Electronic and Information Warfare
 BookmarkLevel: 1
-BookmarkPageNumber: 656
+BookmarkPageNumber: 666
 BookmarkBegin
-BookmarkTitle: 25. Surveillance or Privacy?
+BookmarkTitle: 24: Copyright and DRM
 BookmarkLevel: 1
-BookmarkPageNumber: 689
+BookmarkPageNumber: 699
 BookmarkBegin
-BookmarkTitle: 26. Managing the Development of Secure Systems
+BookmarkTitle: 26. Surveillance or Privacy?
 BookmarkLevel: 1
-BookmarkPageNumber: 737
+BookmarkPageNumber: 741
 BookmarkBegin
-BookmarkTitle: 27. Assurance and Sustainability
+BookmarkTitle: 27. Secure Systems Development
 BookmarkLevel: 1
-BookmarkPageNumber: 779
+BookmarkPageNumber: 789
+BookmarkBegin
+BookmarkTitle: 28. Assurance and Sustainability
+BookmarkLevel: 1
+BookmarkPageNumber: 832
 BookmarkBegin
 BookmarkTitle: Bibliography
 BookmarkLevel: 1
-BookmarkPageNumber: 817
+BookmarkPageNumber: 871

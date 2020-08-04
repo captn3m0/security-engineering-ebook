@@ -36,9 +36,9 @@ See `titles.txt` for the bookmark titles used by the script.
 -   Chapter 21: Network Attack and Defence
 -   Chapter 22: Phones
 -   Chapter 23: Electronic and Information Warfare
--   Chapter 25: Surveillance or Privacy?
--   Chapter 26: Managing the Development of Secure Systems
--   Chapter 27: Assurance and Sustainability
+-   Chapter 26: Surveillance or Privacy?
+-   Chapter 27: Managing the Development of Secure Systems
+-   Chapter 28: Assurance and Sustainability
 -   Bibliography
 
 ## How to generate the book?

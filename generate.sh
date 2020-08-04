@@ -18,7 +18,7 @@ assert_installed wget pdftk
 if [[ $@ == *'--download-cover-image'* ]]; then
   echo "Downloading cover image"
   assert_installed convert
-  wget --quiet --timestamping "$COVER_URL" --output-document cover.pdf
+  wget --timeout=10 --timestamping "$COVER_URL" --output-document cover.pdf
   echo "Cover Image downloaded"
 fi
 
@@ -31,7 +31,7 @@ do
 done < "$INPUT_FILE"
 
 echo "Starting PDF download"
-wget --quiet --timestamping --input-file "urls.txt"
+wget --timeout=10 --timestamping --input-file "urls.txt"
 echo "All PDFs downloaded"
 
 pdftk cover.pdf ${FILES_LIST[@]} cat output temp.pdf

@@ -22,7 +22,8 @@ Preface
 21. Network Attack and Defence
 22. Phones
 23. Electronic and Information Warfare
-25. Surveillance or Privacy?
-26. Managing the Development of Secure Systems
-27. Assurance and Sustainability
+24: Copyright and DRM
+26. Surveillance or Privacy?
+27. Secure Systems Development
+28. Assurance and Sustainability
 Bibliography
