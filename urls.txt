@@ -3,10 +3,10 @@ https://www.cl.cam.ac.uk/~rja14/Papers/SEv3-ch1-3aug.pdf
 https://www.cl.cam.ac.uk/~rja14/Papers/SEv3-ch2-3aug.pdf
 https://www.cl.cam.ac.uk/~rja14/Papers/SEv3-ch3-3aug.pdf
 https://www.cl.cam.ac.uk/~rja14/Papers/SEv3-ch4-3aug.pdf
-https://www.cl.cam.ac.uk/~rja14/Papers/SEv3-ch5-3aug.pdf
+https://www.cl.cam.ac.uk/~rja14/Papers/SEv3-ch5-dec18.pdf
 https://www.cl.cam.ac.uk/~rja14/Papers/SEv3-ch6-3aug.pdf
 https://www.cl.cam.ac.uk/~rja14/Papers/SEv3-ch7-3aug.pdf
-https://www.cl.cam.ac.uk/~rja14/Papers/SEv3-ch8-dec18.pdf
+https://www.cl.cam.ac.uk/~rja14/Papers/SEv3-ch8-1sep.pdf
 https://www.cl.cam.ac.uk/~rja14/Papers/SEv3-ch9-3aug.pdf
 https://www.cl.cam.ac.uk/~rja14/Papers/SEv3-ch10-3aug.pdf
 https://www.cl.cam.ac.uk/~rja14/Papers/SEv3-ch11-3aug.pdf
@@ -23,7 +23,9 @@ https://www.cl.cam.ac.uk/~rja14/Papers/SEv3-ch21-mar17.pdf
 https://www.cl.cam.ac.uk/~rja14/Papers/SEv3-ch22-jul10.pdf
 https://www.cl.cam.ac.uk/~rja14/Papers/SEv3-ch23-jun5.pdf
 https://www.cl.cam.ac.uk/~rja14/Papers/SEv3-ch24-3aug.pdf
+https://www.cl.cam.ac.uk/~rja14/Papers/SEv3-ch25-1sep.pdf
 https://www.cl.cam.ac.uk/~rja14/Papers/SEv3-ch26-3aug.pdf
 https://www.cl.cam.ac.uk/~rja14/Papers/SEv3-ch27-3aug.pdf
-https://www.cl.cam.ac.uk/~rja14/Papers/SEv3-ch28-3aug.pdf
-https://www.cl.cam.ac.uk/~rja14/Papers/SEv3-bib-3aug.pdf
+https://www.cl.cam.ac.uk/~rja14/Papers/SEv3-ch28-1sep.pdf
+https://www.cl.cam.ac.uk/~rja14/Papers/SEv3-ch29-1sep.pdf
+https://www.cl.cam.ac.uk/~rja14/Papers/SEv3-bib-1sep.pdf
