@@ -46,7 +46,7 @@ See `titles.txt` for the bookmark titles used by the script.
 
 ## How to generate the book?
 
-Run `./generate.sh`. You will need `pdftk`, and `wget` installed. Alternatively, you can run it using Docker:grinning:
+Run `./generate.sh`. You will need `pdftk`, and `wget` installed. Alternatively, you can run it using Docker.
 
 ### Docker
 
