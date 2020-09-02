@@ -23,7 +23,9 @@ Preface
 22. Phones
 23. Electronic and Information Warfare
 24: Copyright and DRM
+25: Taking Stock
 26. Surveillance or Privacy?
 27. Secure Systems Development
 28. Assurance and Sustainability
+29. Beyond “Computer Says No”
 Bibliography

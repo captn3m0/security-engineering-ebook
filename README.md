@@ -36,9 +36,12 @@ See `titles.txt` for the bookmark titles used by the script.
 -   Chapter 21: Network Attack and Defence
 -   Chapter 22: Phones
 -   Chapter 23: Electronic and Information Warfare
+-   Chapter 24: Copyright and DRM
+-   Chapter 25: Taking Stock
 -   Chapter 26: Surveillance or Privacy?
 -   Chapter 27: Managing the Development of Secure Systems
 -   Chapter 28: Assurance and Sustainability
+-   Chapter 29: Beyond 'Computer Says No'
 -   Bibliography
 
 ## How to generate the book?
@@ -78,7 +81,7 @@ Download the cover image. The repo already has [a `cover.pdf` file which](https:
 
 ## Support the Authors
 
-Buy the second editions from:
+Buy the second edition of the book from:
 
 -   [Amazon.com](http://www.amazon.com/exec/obidos/ASIN/0470068523/rossandersshomep)
 -   [Wiley](http://he-cda.wiley.com/WileyCDA/HigherEdTitle/productCd-0470068523.html)
