@@ -6,7 +6,8 @@ This is just the script to generate a combined PDF from the currently-online-cha
 
 The script also takes care of putting in the right bookmarks for all the chapters in the generated PDF file.
 
-Go read the book from the source at <https://www.cl.cam.ac.uk/~rja14/book.html>
+Go read the book from the source at <https://www.cl.cam.ac.uk/~rja14/book.html>. Please send any feedback
+about the chapters directly to the author at at Ross dot Anderson at cl dot cam dot ac dot uk.
 
 ## Chapters
 
