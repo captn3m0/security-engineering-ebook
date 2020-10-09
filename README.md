@@ -40,7 +40,7 @@ See `titles.txt` for the bookmark titles used by the script.
 -   Chapter 24: Copyright and DRM
 -   Chapter 25: Taking Stock
 -   Chapter 26: Surveillance or Privacy?
--   Chapter 27: Managing the Development of Secure Systems
+-   Chapter 27: Secure Systems Development
 -   Chapter 28: Assurance and Sustainability
 -   Chapter 29: Beyond 'Computer Says No'
 -   Bibliography
