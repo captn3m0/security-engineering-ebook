@@ -1,21 +1,20 @@
-# security-engineering-3rd-edition-ebook ![](https://img.shields.io/badge/Chapters%20Published-29-brightgreen)
+# security-engineering-3rd-edition-ebook ![](https://img.shields.io/badge/Status-Unavailable-orange)
+
+*Update*: The website currently only has 7 sample chapters since the remaining were removed at the book's publication. The script should automatically start working in May 2024, when these chapters should become available.
 
 ![third-edition-security-engineering-book-cover](cover-thumb.jpg)
 
-This is just the script to generate a combined PDF from the currently-online-chapters available for review.
+This is just the script to generate a combined PDF from the currently-online-chapters that were published for review. The script also takes care of putting in the right bookmarks for all the chapters in the generated PDF file.
 
-The script also takes care of putting in the right bookmarks for all the chapters in the generated PDF file.
-
-Go read the book from the source at <https://www.cl.cam.ac.uk/~rja14/book.html>. Please send any feedback
-about the chapters directly to the author at at Ross dot Anderson at cl dot cam dot ac dot uk.
+The e-book version is available now for $42 from [Wiley](https://www.wiley.com/en-us/Security+Engineering%3A+A+Guide+to+Building+Dependable+Distributed+Systems%2C+3rd+Edition-p-9781119642817) and for $47 from [Amazon](https://www.amazon.com/Security-Engineering-Building-Dependable-Distributed-ebook/dp/B08P69FT4Q).
 
 ## Chapters
 
 See `titles.txt` for the bookmark titles used by the script.
 
--   Preface
+-   Preface*
 -   Chapter 1: What is Security Engineering?
--   Chapter 2: Who is the Opponent?
+-   Chapter 2: Who is the Opponent?*
 -   Chapter 3: Psychology and Usability
 -   Chapter 4: Protocols
 -   Chapter 5: Cryptography
@@ -24,7 +23,7 @@ See `titles.txt` for the bookmark titles used by the script.
 -   Chapter 8: Economics
 -   Chapter 9: Multilevel Security
 -   Chapter 10: Boundaries
--   Chapter 11: Inference Control
+-   Chapter 11: Inference Control*
 -   Chapter 12: Banking and Bookkeeping
 -   Chapter 13: Physical Protection
 -   Chapter 14: Monitoring and Metering
@@ -32,18 +31,20 @@ See `titles.txt` for the bookmark titles used by the script.
 -   Chapter 16: Security Printing and Seals
 -   Chapter 17: Biometrics
 -   Chapter 18: Physical Tamper Resistance
--   Chapter 19: Side Channels
--   Chapter 20: Advanced Cryptographic Engineering
+-   Chapter 19: Side Channels*
+-   Chapter 20: Advanced Cryptographic Engineering*
 -   Chapter 21: Network Attack and Defence
--   Chapter 22: Phones
+-   Chapter 22: Phones*
 -   Chapter 23: Electronic and Information Warfare
 -   Chapter 24: Copyright and DRM
--   Chapter 25: Taking Stock
--   Chapter 26: Surveillance or Privacy?
+-   Chapter 25: Taking Stock*
+-   Chapter 26: Surveillance or Privacy?*
 -   Chapter 27: Secure Systems Development
 -   Chapter 28: Assurance and Sustainability
 -   Chapter 29: Beyond 'Computer Says No'
--   Bibliography
+-   Bibliography*
+
+Chapters marked with \* are available as sample chapters.
 
 ## How to generate the book?
 
