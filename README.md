@@ -34,19 +34,6 @@ docker cp security-engineering-ebook:/security-engineering-ebook/security-engine
 
 Once the script finishes running, check the `security-engineering-3rd-edition.pdf` file.
 
-### More Options?
-
-You can run with the following 2 options:
-
-`--generate-metadata`
-
-To generate the meta.txt file which contains the list of bookmarks to be inserted. This is required if you make changes to the file lists.
-This also requires `qpdf` to be installed.
-
-`--download-cover-image`
-
-Download the cover image. The repo already has [a `cover.pdf` file which](https://www.cl.cam.ac.uk/~rja14/Papers/SEv3-cover.pdf) is used by default. Do this if the cover URL changes. Requires `wget` to be installed.
-
 ## Support the Authors
 
 Buy the second edition of the book from:

@@ -13,25 +13,10 @@ function assert_installed() {
     done
 }
 
-assert_installed wget
-
-if [[ $@ == *'--download-cover-image'* ]]; then
-  echo "Downloading cover image"
-  assert_installed convert
-  wget --timeout=10 --timestamping "$COVER_URL" --output-document cover.pdf
-  echo "Cover Image downloaded"
-fi
-
-declare -a FILES_LIST
-
-while IFS= read -r line
-do
-    FILENAME=$(basename "$line")
-    FILES_LIST+=("$FILENAME")
-done < "$INPUT_FILE"
+assert_installed wget pystitcher
 
 echo "Starting PDF download"
 wget --timeout=10 --timestamping --input-file "urls.txt"
 echo "All PDFs downloaded"
 
-pystitcher book.md
+pystitcher book.md "$FINAL_PDF"
