@@ -13,7 +13,7 @@ function assert_installed() {
     done
 }
 
-assert_installed wget pdftk
+assert_installed wget
 
 if [[ $@ == *'--download-cover-image'* ]]; then
   echo "Downloading cover image"
@@ -34,47 +34,4 @@ echo "Starting PDF download"
 wget --timeout=10 --timestamping --input-file "urls.txt"
 echo "All PDFs downloaded"
 
-pdftk cover.pdf ${FILES_LIST[@]} cat output temp.pdf
-
-echo "PDF files combined"
-
-if [[ $@ == *'--generate-metadata'* ]]; then
-  assert_installed qpdf
-  echo "InfoBegin" > meta.txt
-  echo "InfoKey: Title" >> meta.txt
-  echo "InfoValue: Security Engineering — Third Edition" >> meta.txt
-
-  echo "InfoBegin" >> meta.txt
-  echo "InfoKey: Author" >> meta.txt
-  echo "InfoValue: Ross Anderson" >> meta.txt
-  ## We start from page 2 because first is cover and it is not included in urls.txt
-  PAGE_NUM=2
-  echo "BookmarkBegin" >> meta.txt
-  echo "BookmarkTitle: Cover" >> meta.txt
-  echo "BookmarkLevel: 1" >> meta.txt
-  echo "BookmarkPageNumber: 1" >> meta.txt
-
-  chapter_id=0
-  readarray -t TITLES < titles.txt
-  while IFS= read -r line
-  do
-      FILENAME=$(basename "$line")
-      PAGES=$(qpdf --show-npages "$FILENAME")
-      BOOKMARK_TITLE="${TITLES[$chapter_id]}"
-
-      echo "BookmarkBegin" >> meta.txt
-      echo "BookmarkTitle: $BOOKMARK_TITLE" >> meta.txt
-      echo "BookmarkLevel: 1" >> meta.txt
-      echo "BookmarkPageNumber: $PAGE_NUM" >> meta.txt
-      chapter_id=$((chapter_id+1))
-      PAGE_NUM=$((PAGE_NUM+PAGES))
-  done < "$INPUT_FILE"
-  echo "Metadata updated"
-fi
-
-echo "Bookmarks attached to PDF"
-
-pdftk temp.pdf update_info meta.txt output $FINAL_PDF
-rm temp.pdf
-
-echo "PDF File generated: $FINAL_PDF"
+pystitcher book.md

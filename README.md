@@ -10,45 +10,11 @@ The e-book version is available now for $42 from [Wiley](https://www.wiley.com/e
 
 ## Chapters
 
-See `titles.txt` for the bookmark titles used by the script.
-
--   Preface*
--   Chapter 1: What is Security Engineering?
--   Chapter 2: Who is the Opponent?*
--   Chapter 3: Psychology and Usability
--   Chapter 4: Protocols
--   Chapter 5: Cryptography
--   Chapter 6: Access Control
--   Chapter 7: Distributed Systems
--   Chapter 8: Economics
--   Chapter 9: Multilevel Security
--   Chapter 10: Boundaries
--   Chapter 11: Inference Control*
--   Chapter 12: Banking and Bookkeeping
--   Chapter 13: Physical Protection
--   Chapter 14: Monitoring and Metering
--   Chapter 15: Nuclear Command and Control
--   Chapter 16: Security Printing and Seals
--   Chapter 17: Biometrics
--   Chapter 18: Physical Tamper Resistance
--   Chapter 19: Side Channels*
--   Chapter 20: Advanced Cryptographic Engineering*
--   Chapter 21: Network Attack and Defence
--   Chapter 22: Phones*
--   Chapter 23: Electronic and Information Warfare
--   Chapter 24: Copyright and DRM
--   Chapter 25: Taking Stock*
--   Chapter 26: Surveillance or Privacy?*
--   Chapter 27: Secure Systems Development
--   Chapter 28: Assurance and Sustainability
--   Chapter 29: Beyond 'Computer Says No'
--   Bibliography*
-
-Chapters marked with \* are available as sample chapters.
+See `book.md` for the bookmark titles used by the script.
 
 ## How to generate the book?
 
-Run `./generate.sh`. You will need `pdftk`, and `wget` installed. Alternatively, you can run it using Docker.
+Run `./generate.sh`. You will need `pystitcher`, and `wget` installed. Alternatively, you can run it using Docker.
 
 ### Docker
 
