@@ -1,4 +1,6 @@
-#!/bin/bash
+#!/bin/ash
+set -euo pipefail
+IFS=$'\n\t'
 
 COVER_URL=https://www.cl.cam.ac.uk/~rja14/Papers/SEv3-cover.pdf
 FINAL_PDF=security-engineering-3rd-edition.pdf

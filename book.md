@@ -1,8 +1,6 @@
 title: Security Engineering — Third Edition
 author: Ross Anderson
 
-# Security Engineering
-
 [Cover](cover.pdf)
 [Preface](SEv3-pref-May16.pdf)
 [1. What is Security Engineering?](SEv3-ch1-7sep.pdf)

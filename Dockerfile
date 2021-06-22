@@ -1,10 +1,7 @@
 FROM python:3-alpine
 
-RUN apt-get update && \
-    mkdir -p /usr/share/man/man1/ && \
-    apt-get install --yes wget ca-certificates && \
-    pip install pystitcher && \
-    apt-get clean
+RUN apk add --no-cache wget ca-certificates && \
+    pip install pystitcher
 
 WORKDIR /security-engineering-ebook
 
