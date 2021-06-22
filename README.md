@@ -2,7 +2,7 @@
 
 *Update*: The website currently only has 7 sample chapters since the remaining were removed at the book's publication, so this downloads the remaining chapters via [The Web Archive](https://web.archive.org/).
 
-![third-edition-security-engineering-book-cover](cover-thumb.jpg)
+![third-edition-security-engineering-book-cover](https://www.cl.cam.ac.uk/~rja14/Papers/SEv3-coversmall.jpg)
 
 This is just the script to generate a combined PDF from the draft chapters that were published for review. The script also takes care of putting in the right bookmarks for all the chapters in the generated PDF file using [pystitcher](https://pypi.org/project/pystitcher/).
 
