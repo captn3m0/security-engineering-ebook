@@ -1,12 +1,12 @@
 # security-engineering-3rd-edition-ebook ![](https://img.shields.io/badge/Status-Working-green)
 
-*Update*: The website currently only has 7 sample chapters since the remaining were removed at the book's publication, so this downloads the remaining chapters via [The Web Archive](https://web.archive.org/).
+*Update*: The website currently only has 7 sample chapters since the remaining were removed at the book's publication, so this downloads the remaining chapters via [The Internet Archive](https://web.archive.org/).
 
 ![third-edition-security-engineering-book-cover](https://www.cl.cam.ac.uk/~rja14/Papers/SEv3-coversmall.jpg)
 
 This is just the script to generate a combined PDF from the draft chapters that were published for review. The script also takes care of putting in the right bookmarks for all the chapters in the generated PDF file using [pystitcher](https://pypi.org/project/pystitcher/).
 
-The e-book version is available now for $42 from [Wiley](https://www.wiley.com/en-us/Security+Engineering%3A+A+Guide+to+Building+Dependable+Distributed+Systems%2C+3rd+Edition-p-9781119642817) and for $47 from [Amazon](https://www.amazon.com/Security-Engineering-Building-Dependable-Distributed-ebook/dp/B08P69FT4Q).
+Support the author and [buy the book](#support-the-authors).
 
 ## Chapters
 
@@ -40,13 +40,18 @@ Buy the third edition of the book from:
 
 ### E-book
 
-- [Amazon](https://www.amazon.com/Security-Engineering-Building-Dependable-Distributed-ebook/dp/B08P69FT4Q)
+- [Amazon](https://www.amazon.com/Security-Engineering-Building-Dependable-Distributed-ebook/dp/B08P69FT4Q/rossandersshomep)
 - [Wiley](https://www.wiley.com/en-us/Security+Engineering%3A+A+Guide+to+Building+Dependable+Distributed+Systems%2C+3rd+Edition-p-9781119642817)
 
 ### Paper
+
 - [Wiley](https://www.wiley.com/en-us/Security+Engineering:+A+Guide+to+Building+Dependable+Distributed+Systems,+3rd+Edition-p-9781119642787)
 - [Amazon US](https://www.amazon.com/Security-Engineering-Building-Dependable-Distributed-dp-1119642787/dp/1119642787/rossandersshomep)
 - [Amazon UK](https://www.amazon.co.uk/Security-Engineering-Building-Dependable-Distributed-dp-1119642787/dp/1119642787/rossandersshomep)
+
+### Course
+
+A [course based on the book (taught to master students and 4th year undergrads at Edinburgh) is available on YouTube](https://www.youtube.com/playlist?list=PL88-McA5nKJN4mjTPAH6nR21K555WDdUF).
 
 ## Extra
 
