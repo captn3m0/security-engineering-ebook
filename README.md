@@ -14,7 +14,7 @@ See `book.md` for the bookmark titles used by the script.
 
 ## How to generate the book?
 
-Run `./generate.sh`. You will need [`pystitcher`](https://pypi.org/project/pystitcher/), and `wget` installed. Alternatively, you can run it using Docker.
+Run `./generate.sh`. You will need [`pystitcher`](https://pypi.org/project/pystitcher/) installed. Alternatively, you can run it using Docker.
 
 ### Docker
 

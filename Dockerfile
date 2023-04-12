@@ -1,7 +1,6 @@
 FROM python:3-alpine
 
-RUN apk add --no-cache wget ca-certificates && \
-    pip install pystitcher
+RUN pip install pystitcher
 
 WORKDIR /security-engineering-ebook
 
