@@ -1,6 +1,6 @@
 # security-engineering-3rd-edition-ebook ![](https://img.shields.io/badge/Status-Working-green)
 
-*Update*: The website currently only has 7 sample chapters since the remaining were removed at the book's publication, so this downloads the remaining chapters via [The Internet Archive](https://web.archive.org/).
+**Update**: The official website now has a [single pdf with all the chapters](https://www.cl.cam.ac.uk/archive/rja14/Papers/SEv3.pdf), so this repository is now archived, and is only available for historical reasons.
 
 ![third-edition-security-engineering-book-cover](https://www.cl.cam.ac.uk/~rja14/Papers/SEv3-coversmall.jpg)
 
